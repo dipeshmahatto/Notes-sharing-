@@ -305,8 +305,10 @@ footer {
 }
 /* notes-section-units-wise */
 .unit-card {
+  box-shadow: 4px 4px 2px 0px;
   width: 300px;
   border: 1px solid #ccc;
+  border-radius: 10px;
   padding: 20px;
   margin-bottom: 20px;
 }

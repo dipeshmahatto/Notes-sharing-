@@ -285,7 +285,10 @@ h2 {
 
 .custom-btn-group a {
   display: inline-block;
-  padding: 10px 20px;
+  height: 100px;
+  width: 200px;
+  
+  padding: 20px 20px;
   background-color: #007bff;
   color: #fff;
   text-decoration: none;
@@ -298,7 +301,8 @@ h2 {
 }
 
 .custom-btn-group a span {
-  font-size: 16px;
+  font-size: 20px;
+  
 }
 
 footer {
